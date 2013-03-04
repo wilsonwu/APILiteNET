@@ -16,6 +16,7 @@ namespace APILiteNET.API
         {
             typeof(string), 
             typeof(DateTime), 
+            typeof(DateTime?),
             typeof(Enum), 
             typeof(decimal), 
             typeof(Guid),
